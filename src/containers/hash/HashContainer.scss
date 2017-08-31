@@ -1,0 +1,9 @@
+.hash-container {
+  .hash-textarea {
+    height: 200px;
+
+    &::placeholder {
+      color: #999999;
+    }
+  }
+}
